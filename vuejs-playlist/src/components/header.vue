@@ -18,7 +18,8 @@
     },
     methods:{
       changeTitle: function () {
-        this.title="Wang"
+        //emit의 첫번째: event를 뭣이라고 부를래? 두 번째: 어떤 데이터를 보낼래?
+        this.$emit('changeTitle', 'Vue Wizards');
       }
     }
   }
