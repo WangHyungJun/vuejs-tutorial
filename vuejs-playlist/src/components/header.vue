@@ -5,6 +5,8 @@
 </template>
 
 <script>
+  import {bus} from '../main';
+
   export default {
     props:{
       title:{
@@ -19,7 +21,9 @@
     methods:{
       changeTitle: function () {
         //emit의 첫번째: event를 뭣이라고 부를래? 두 번째: 어떤 데이터를 보낼래?
-        this.$emit('changeTitle', 'Vue Wizards');
+        //this.$emit('changeTitle', 'Vue Wizards');
+        this.title="vue Wizards";
+        bus.$emit('titleChanged', 'vue Wizards');
       }
     }
   }
