@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f34b4fc-815e-4751-94bc-34c32dc3c72f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vuejs-playlist/src/components/formHelper.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuejs-playlist/src/components/formOne.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vuejs-playlist/src/components/formTwo.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vuejs-playlist/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs-playlist/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuejs-playlist/src/components/footer.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuejs-playlist/src/components/header.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuejs-playlist/src/components/ninjas.vue" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +18,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="76">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <element signature="e#52#100#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -29,8 +30,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/formHelper.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+            <state relative-caret-position="1140">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/formOne.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="41" column="7" lean-forward="true" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/formTwo.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -55,14 +74,16 @@
         <option value="$PROJECT_DIR$/vuejs-playlist/src/components/footer.vue" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/components/header.vue" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/components/ninjas.vue" />
-        <option value="$PROJECT_DIR$/vuejs-playlist/src/App.vue" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/components/formHelper.vue" />
+        <option value="$PROJECT_DIR$/vuejs-playlist/src/components/formOne.vue" />
+        <option value="$PROJECT_DIR$/vuejs-playlist/src/components/formTwo.vue" />
+        <option value="$PROJECT_DIR$/vuejs-playlist/src/App.vue" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="y" value="57" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="964" />
+    <option name="y" value="114" />
     <option name="width" value="876" />
     <option name="height" value="735" />
   </component>
@@ -138,18 +159,18 @@
       <workItem from="1548714760737" duration="1144000" />
       <workItem from="1548716440370" duration="2974000" />
       <workItem from="1548883704027" duration="1806000" />
-      <workItem from="1549667855925" duration="3907000" />
+      <workItem from="1549667855925" duration="6276000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12569000" />
+    <option name="totallyTimeSpent" value="14938000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="643" y="76" width="584" height="490" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.5429616" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.56489944" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -165,7 +186,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.31494662" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.49579832" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -267,17 +288,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/formTwo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/formOne.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="41" column="7" lean-forward="true" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/formHelper.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        <state relative-caret-position="1140">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#52#100#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
