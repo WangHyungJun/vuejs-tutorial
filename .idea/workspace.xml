@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f34b4fc-815e-4751-94bc-34c32dc3c72f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/vuejs-playlist/src/components/addBlog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs-playlist/src/components/addBlog.vue" afterDir="false" />
-    </list>
+    <list default="true" id="3f34b4fc-815e-4751-94bc-34c32dc3c72f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/addBlog.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="57">
+              <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -136,12 +134,12 @@
       <workItem from="1548714760737" duration="1144000" />
       <workItem from="1548716440370" duration="2974000" />
       <workItem from="1548883704027" duration="1806000" />
-      <workItem from="1549667855925" duration="7828000" />
+      <workItem from="1549667855925" duration="8623000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16490000" />
+    <option name="totallyTimeSpent" value="17285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="643" y="76" width="584" height="490" extended-state="0" />
@@ -295,8 +293,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/addBlog.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="57">
+          <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
         </state>
       </provider>
     </entry>
