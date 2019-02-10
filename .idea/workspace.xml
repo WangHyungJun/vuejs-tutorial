@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f34b4fc-815e-4751-94bc-34c32dc3c72f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vuejs-playlist/src/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vuejs-playlist/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs-playlist/src/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,14 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-              <folding>
-                <element signature="e#80#122#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="171">
+              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -65,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="209">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -100,11 +95,11 @@
         <option value="$PROJECT_DIR$/vuejs-playlist/src/components/formOne.vue" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/components/formTwo.vue" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/components/addBlog.vue" />
-        <option value="$PROJECT_DIR$/vuejs-playlist/src/App.vue" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/mixins/searchMixins.js" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/components/showBlogs.vue" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/components/listBlogs.vue" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/routes.js" />
+        <option value="$PROJECT_DIR$/vuejs-playlist/src/App.vue" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/main.js" />
       </list>
     </option>
@@ -182,16 +177,15 @@
       <workItem from="1548883704027" duration="1806000" />
       <workItem from="1549667855925" duration="13091000" />
       <workItem from="1549719360691" duration="1212000" />
-      <workItem from="1549746300664" duration="3876000" />
+      <workItem from="1549746300664" duration="4604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26841000" />
+    <option name="totallyTimeSpent" value="27569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="632" y="132" width="584" height="490" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.41133454" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -298,6 +292,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/addBlog.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="471">
@@ -321,30 +332,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="209">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding>
-            <element signature="e#80#122#0" expanded="true" />
           </folding>
         </state>
       </provider>
