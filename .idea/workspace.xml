@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f34b4fc-815e-4751-94bc-34c32dc3c72f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vuejs-playlist/src/components/singleBlog.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuejs-playlist/src/components/showBlogs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs-playlist/src/components/showBlogs.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuejs-playlist/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs-playlist/src/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuejs-playlist/src/components/addBlog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs-playlist/src/components/addBlog.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,17 +36,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/singleBlog.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-95">
+            <state relative-caret-position="15">
               <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/addBlog.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="244">
-              <caret line="58" column="71" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="71" />
+              <caret line="58" column="94" selection-start-line="58" selection-start-column="94" selection-end-line="58" selection-end-column="94" />
             </state>
           </provider>
         </entry>
@@ -57,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/showBlogs.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-76">
-              <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+            <state relative-caret-position="304">
+              <caret line="25" column="66" lean-forward="true" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -66,13 +63,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/listBlogs.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            <state relative-caret-position="471">
+              <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
@@ -114,19 +111,19 @@
         <option value="$PROJECT_DIR$/vuejs-playlist/src/components/formHelper.vue" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/components/formOne.vue" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/components/formTwo.vue" />
-        <option value="$PROJECT_DIR$/vuejs-playlist/src/components/addBlog.vue" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/mixins/searchMixins.js" />
-        <option value="$PROJECT_DIR$/vuejs-playlist/src/components/listBlogs.vue" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/main.js" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/App.vue" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/components/header.vue" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/routes.js" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/components/singleBlog.vue" />
         <option value="$PROJECT_DIR$/vuejs-playlist/src/components/showBlogs.vue" />
+        <option value="$PROJECT_DIR$/vuejs-playlist/src/components/listBlogs.vue" />
+        <option value="$PROJECT_DIR$/vuejs-playlist/src/components/addBlog.vue" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="733" />
     <option name="y" value="79" />
     <option name="width" value="876" />
@@ -208,15 +205,15 @@
       <workItem from="1549719360691" duration="1212000" />
       <workItem from="1549746300664" duration="4604000" />
       <workItem from="1549801734075" duration="1744000" />
-      <workItem from="1549839494007" duration="2133000" />
+      <workItem from="1549839494007" duration="3672000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31446000" />
+    <option name="totallyTimeSpent" value="32985000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="489" y="53" width="584" height="487" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.41133454" />
@@ -330,6 +327,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/listBlogs.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/showBlogs.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="25" column="66" lean-forward="true" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -349,7 +370,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/singleBlog.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
+        <state relative-caret-position="15">
           <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
@@ -357,31 +378,7 @@
     <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/addBlog.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
-          <caret line="58" column="71" lean-forward="true" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/showBlogs.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76">
-          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/components/listBlogs.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vuejs-playlist/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+          <caret line="58" column="94" selection-start-line="58" selection-start-column="94" selection-end-line="58" selection-end-column="94" />
         </state>
       </provider>
     </entry>
